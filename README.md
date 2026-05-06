@@ -44,11 +44,6 @@
 - Built backend authentication APIs  
 - Input validation and error handling  
 
-### 🎨 AI Image Generator  
-> Frontend project using React  
-- Integrated external APIs  
-- Built responsive UI  
-
 ---
 
 ## 🏆 Experience  
@@ -56,9 +51,6 @@
 💼 **Software Engineer Intern – Veracity Software**  
 - Worked on E-Commerce system  
 - Developed backend APIs and integrated frontend  
-
-💼 **Intern – Oasis Infobyte**  
-- Built multiple web-based projects  
 
 ---
 
